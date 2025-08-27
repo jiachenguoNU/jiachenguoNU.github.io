@@ -1,200 +1,284 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jiachen Guo",
+    "label": "PhD Candidate in Theoretical and Applied Mechanics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jiachen.guo@northwestern.edu",
+    "phone": "773-273-0447",
+    "url": "https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en",
+    "summary": "Self-motivated researcher with expertise in Machine Learning, Numerical Simulation and Computational Science. Adept at Deep Learning, Optimization, Large-scale Data Analysis, and Fast reduced-order modeling of physics. Skilled in software development for computational science, emphasizing efficient algorithms and robust design.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": "California"
+      "region": "IL"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Jiachen Guo",
+        "url": "https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "HIDENN-AI, LLC",
+      "position": "Machine Learning Engineer Intern",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "Present",
+      "summary": "LLM-driven Computational Science: Proposed and developed a novel framework for scientific code generation using a RAG-based approach on a specialized surrogate model database, reducing development cycles by 40%. Physical AI Model Development: Invented and validated AI-enhanced machine learning model, INN-TD, for ultra large-scale physical world modeling with much less training data, significant speedup, better accuracy and fast inference. AI Education in Computational Science: Led 4 sessions in the 2025 HiDeNN-AI summer course, educating over 40 participants including graduate students and industry professionals on advanced AI for computational science.",
+      "highlights": ["LLM-driven Computational Science", "Physical AI Model Development", "AI Education in Computational Science"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Northwestern University",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "summary": "Ultra Large-scale Surrogate modeling of complex physics: Architected and implemented a novel surrogate model using Tensor Decomposition (TD), accelerating large-scale PDE simulations by over 100x while drastically reducing RAM and storage requirements. GPU-Accelerated Scientific Computing: Implemented the tensor decomposition method in JAX GPU for ultra large-scale additive manufacturing physical process simulations. Novel Operator Learning Method: Proposed novel operator learning framework on clustered data and validated the method using microscale analysis in computational mechanics. ML for Scientific Discovery: Developed data-driven physical law discovery using dimensionless learning that successfully discovered hidden physics from additive manufacturing experimental data.",
+      "highlights": ["Ultra Large-scale Surrogate modeling", "GPU-Accelerated Scientific Computing", "Novel Operator Learning Method", "ML for Scientific Discovery"]
+    },
+    {
+      "name": "Shanghai Municipal Engineering Design Institute Co., Ltd",
+      "position": "Engineer Intern",
+      "url": "",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-01",
+      "summary": "Data analysis: Designed, built, and maintained a scalable data pipeline for infrastructure inspection data.",
+      "highlights": ["Data analysis", "Infrastructure inspection"]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "",
+      "area": "Theoretical and Applied Mechanics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-09-01",
+      "endDate": "2026-04-01",
+      "score": "3.98/4.00",
+      "courses": ["Machine Learning", "Numerical Methods", "Computational Science"]
+    },
+    {
+      "institution": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "url": "",
+      "area": "Civil Engineering",
+      "studyType": "MEng",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01",
+      "score": "91.0/100.0",
+      "courses": ["Civil Engineering"]
+    },
+    {
+      "institution": "Sichuan University",
+      "location": "Chengdu, China",
+      "url": "",
+      "area": "Civil Engineering",
+      "studyType": "BEng",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "3.70/4.00",
+      "courses": ["Civil Engineering"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Walter P. Murphy Fellowship",
+      "date": "2021-09-01",
+      "awarder": "Northwestern University",
+      "url": "",
+      "summary": "Fellowship for outstanding PhD students"
+    },
+    {
+      "title": "Predictive Science and Engineering Design Fellowship",
+      "date": "2021-09-01",
+      "awarder": "Northwestern University",
+      "url": "",
+      "summary": "Fellowship for research in predictive science and engineering design"
+    },
+    {
+      "title": "2nd Prize in 2022 NIST AMBench for macroscale tensile crack test",
+      "date": "2022-01-01",
+      "awarder": "NIST",
+      "url": "",
+      "summary": "Second prize in NIST AMBench competition"
+    },
+    {
+      "title": "1st Prize in 2022 Asynchronous NIST AMBench for Scan Geometry",
+      "date": "2022-01-01",
+      "awarder": "NIST",
+      "url": "",
+      "summary": "First prize in NIST AMBench competition for scan geometry"
+    },
+    {
+      "title": "Excellent student at Zhejiang University",
+      "date": "2021-06-01",
+      "awarder": "Zhejiang University",
+      "url": "",
+      "summary": "Recognition for academic excellence"
+    },
+    {
+      "title": "Outstanding graduate",
+      "date": "2018-06-01",
+      "awarder": "Sichuan University",
+      "url": "",
+      "summary": "Recognition for outstanding graduation"
+    },
+    {
+      "title": "Baosteel Fellowship for Outstanding Student",
+      "date": "2018-06-01",
+      "awarder": "Baosteel",
+      "url": "",
+      "summary": "Fellowship for outstanding students"
+    },
+    {
+      "title": "1st Prize in provincial engineering mechanics competition",
+      "date": "2018-06-01",
+      "awarder": "Provincial Competition",
+      "url": "",
+      "summary": "First prize in engineering mechanics competition"
+    },
+    {
+      "title": "1st Prize Scholarship",
+      "date": "2018-06-01",
+      "awarder": "Sichuan University",
+      "url": "",
+      "summary": "First prize scholarship"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Tensor-decomposition-based A Priori Surrogate (TAPS) modeling for ultra large-scale simulations",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "Guo, J., Domel, G, Park, C., Zhang H., Gumus O., Lu, Y, Wagner, G.J., Qian D., Cao J., Hughes, T.J.R, & Liu, W. K."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Interpolation Neural Network-Tensor Decomposition (INN-TD): a scalable and interpretable approach for large-scale physics-based problems",
+      "publisher": "International Conference on Machine Learning (ICML)",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "Guo, J., Xie, X., Park, C., Zhang H., Politis, M., Domel, G, Hughes, T.J.R, & Liu, W. K."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Convolutional Hierarchical Deep Learning Neural Networks-Tensor Decomposition (C-HiDeNN-TD): a scalable surrogate modeling approach for large-scale physical systems",
+      "publisher": "NeurIPS 2024 workshop on Data-driven and Differentiable Simulations",
+      "releaseDate": "2024-12-01",
+      "url": "",
+      "summary": "Guo, J., Park, C., Xie, X., Sang, Z., Wagner, G. J., & Liu, W. K."
+    },
+    {
+      "name": "An Introduction to Kernel and Operator Learning Methods for Homogenization by Self-consistent Clustering Analysis",
+      "publisher": "Computational Mechanics",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "Huang, O.,* Saha, S., * Guo, J., *(Co-first author) & Liu, W. K."
+    },
+    {
+      "name": "Data-driven discovery of dimensionless numbers and governing laws from scarce measurements",
+      "publisher": "Nature Communications, 13(1), 7562",
+      "releaseDate": "2022-12-01",
+      "url": "",
+      "summary": "Xie, X., Samaei, A., Guo, J., Liu, W. K., & Gan, Z."
+    },
+    {
+      "name": "Extended tensor decomposition model reduction methods: Training, prediction, and design under uncertainty",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering, 418, 116550",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": "Lu, Y., Mojumder, S., Guo, J., Li, Y., & Liu, W. K."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep Learning",
+        "Surrogate Modeling",
+        "Tensor Decomposition",
+        "Operator Learning",
+        "Scientific Discovery"
+      ]
+    },
+    {
+      "name": "Computational Science",
+      "level": "Expert",
+      "icon": "fa-solid fa-calculator",
+      "keywords": [
+        "Numerical Methods",
+        "Finite Element Analysis",
+        "High-Performance Computing",
+        "GPU Computing",
+        "JAX"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C++",
+        "MATLAB",
+        "SQL",
+        "PyTorch",
+        "JAX",
+        "Langchain",
+        "Pandas"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Chinese",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computational Science",
+      "icon": "fa-solid fa-microscope",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Numerical Simulation",
+        "Additive Manufacturing",
+        "Physics-based Modeling"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Ultra Large-scale Surrogate Modeling",
+      "summary": "Architected and implemented a novel surrogate model using Tensor Decomposition (TD), accelerating large-scale PDE simulations by over 100x while drastically reducing RAM and storage requirements.",
+      "highlights": ["Tensor Decomposition", "PDE Simulations", "GPU Acceleration"],
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "INN-TD Model Development",
+      "summary": "Invented and validated AI-enhanced machine learning model, INN-TD, for ultra large-scale physical world modeling with much less training data, significant speedup, better accuracy and fast inference.",
+      "highlights": ["Neural Networks", "Tensor Decomposition", "Physical Modeling"],
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "url": ""
     }
   ]
 }
