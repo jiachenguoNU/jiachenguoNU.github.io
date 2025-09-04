@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    King's chair, Half Dome, Yosemite NP, 2024
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Jiachen, a PhD student at Northwestern Univeristy. I'm current working with Prof Wing Kam Liu. My research interest lies in the intersection of computational engineering, artificial intelligence and advanced manufacturing. 
+I'm Jiachen, a PhD student at Northwestern Univeristy. I'm current working with Prof Wing Kam Liu. My research lies in the intersection of computational engineering, artificial intelligence and advanced manufacturing. I'm particularly interested in developing AI-enhanced numerical algorithms to solve large-scale high-dimensional problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For the latest publication, please check my [Google scholar](https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en). Feel free to contact me if you have any questions about my papers or would like to discuss with me about potential collaboration.
