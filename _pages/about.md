@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Jiachen, a PhD student at Northwestern Univeristy. I'm currently working with Prof Wing Kam Liu. My research lies at the intersection of computational engineering, artificial intelligence and advanced manufacturing. I'm particularly interested in developing AI-enhanced numerical algorithms to solve large-scale high-dimensional problems.
+I'm currently a PhD student at Northwestern Univeristy working with Prof Wing Kam Liu. My research lies at the intersection of computational engineering, artificial intelligence and advanced manufacturing. I'm particularly interested in developing AI-enhanced numerical algorithms to solve large-scale high-dimensional problems.
 
 For the latest publication, please check [Google scholar](https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en). Please feel free to contact me with any questions about my work or to discuss potential collaborations.
