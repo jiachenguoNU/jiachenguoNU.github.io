@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a research associate at Northwestern University, working with Prof Wing Kam Liu. I'm also the chief scientific officer at HIDENN-AI, Inc. My interest lies at the intersection of computational engineering, artificial intelligence and advanced manufacturing.
+I'm currently a research associate at Northwestern University, working with Prof Wing Kam Liu. My interest lies at the intersection of computational engineering, artificial intelligence and advanced manufacturing. I'm also the chief science officer at HIDENN-AI, Inc. We are actively hiring talents with expertise in CAE. Please feel free to contact me to discuss potential opportunities.
 
-For the latest publication, please check [Google scholar](https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en). Please feel free to contact me to discuss potential collaborations.
+For the latest publication, please check [Google scholar](https://scholar.google.com/citations?user=6-xLkbQAAAAJ&hl=en). 
